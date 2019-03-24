@@ -126,7 +126,7 @@ i {
 
 
 #section_two {
-    background: url(/assets/images/bird-s-eye-view-black-and-white-colors-450055.jpg) no-repeat center fixed;
+    background: url(../assets/images/bird-s-eye-view-black-and-white-colors-450055.jpg) no-repeat center fixed;
     background-size: cover;
     display: flex;
     padding-bottom: 10px;
@@ -147,7 +147,7 @@ i {
 
 
 #section_three {
-    background: url(/assets/images/robert-katzki-119134-unsplash.jpg) no-repeat center fixed;
+    background: url(../assets/images/robert-katzki-119134-unsplash.jpg) no-repeat center fixed;
     background-size: cover;
     margin-bottom: 15px;
     /* background-image: url(robert-katzki-119134-unsplash.jpg) no-repeat center fixed; */
