@@ -123,7 +123,9 @@ i {
     background-color: black;
 
 }
-
+#whatApp{
+    color: white;
+}
 
 #section_two {
     background: url(images/bird-s-eye-view-black-and-white-colors-450055.jpg) no-repeat center fixed;
